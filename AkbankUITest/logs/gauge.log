@@ -1,0 +1,16 @@
+15:28:36.177 Plugin java is already installed.
+15:28:36.179 Plugin html-report is already installed.
+15:28:36.623 Runner connection error: Runner with pid 11640 quit unexpectedly(exit status 1).
+15:28:36.623 Error while killing runner: invalid argument
+15:28:36.624 Failed to start gauge API: Runner with pid 11640 quit unexpectedly(exit status 1).
+19:18:47.536 Plugin java is already installed.
+19:18:47.538 Plugin html-report is already installed.
+19:18:48.006 Checking updates...
+19:18:48.010 Runner connection error: Runner with pid 6060 quit unexpectedly(exit status 1).
+19:18:48.010 Error while killing runner: invalid argument
+19:18:48.011 Failed to start gauge API: Runner with pid 6060 quit unexpectedly(exit status 1).
+19:18:57.756 Plugin java is already installed.
+19:18:57.756 Plugin html-report is already installed.
+19:18:58.125 Runner connection error: Runner with pid 10168 quit unexpectedly(exit status 1).
+19:18:58.125 Error while killing runner: invalid argument
+19:18:58.126 Failed to start gauge API: Runner with pid 10168 quit unexpectedly(exit status 1).

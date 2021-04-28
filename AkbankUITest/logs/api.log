@@ -1,0 +1,156 @@
+13:35:31.820 Watching directory: C:\Users\erena\IdeaProjects\AkbankUITest\specs
+13:35:31.821 Found 1 files
+13:35:31.823 Initializing concepts cache with 0 concepts
+13:35:31.824 Spec file added / modified: C:\Users\erena\IdeaProjects\AkbankUITest\specs\akbankUI.spec
+13:35:31.825 Initializing specs cache with 1 specs
+13:35:31.825 Adding specs from C:\Users\erena\IdeaProjects\AkbankUITest\specs\akbankUI.spec
+13:35:31.825 Initializing steps cache with 1 steps
+13:35:31.825 Gauge daemon initialized and listening on port: 51449
+13:35:32.199 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Choose S\304\260GORTASIZ" > 
+13:35:32.200 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Choose S\304\260GORTASIZ" parameterizedStepValue:"Choose S\304\260GORTASIZ" > > 
+13:35:32.201 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter Akbank Home Page 'https://akbank.com/'" > 
+13:35:32.202 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter Akbank Home Page 'https://akbank.com/'" parameterizedStepValue:"Enter Akbank Home Page 'https://akbank.com/'" > > 
+13:35:32.608 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click on Kredi Hesaplama" > 
+13:35:32.617 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click on Kredi Hesaplama" parameterizedStepValue:"Click on Kredi Hesaplama" > > 
+13:35:32.661 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter '50000' tl in Tutar field" > 
+13:35:32.662 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter '50000' tl in Tutar field" parameterizedStepValue:"Enter '50000' tl in Tutar field" > > 
+13:35:32.720 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Set vade as '20AY'" > 
+13:35:32.721 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Set vade as '20AY'" parameterizedStepValue:"Set vade as '20AY'" > > 
+13:35:32.751 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click Hesaplama Detaylar\304\261" > 
+13:35:32.751 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click Hesaplama Detaylar\304\261" parameterizedStepValue:"Click Hesaplama Detaylar\304\261" > > 
+13:35:32.779 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check Masraf ve Maliyet Oranlar\304\261 is opened" > 
+13:35:32.779 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check Masraf ve Maliyet Oranlar\304\261 is opened" parameterizedStepValue:"Check Masraf ve Maliyet Oranlar\304\261 is opened" > > 
+13:35:32.811 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \303\226deme Plan\304\261" > 
+13:35:32.811 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click \303\226deme Plan\304\261" parameterizedStepValue:"Click \303\226deme Plan\304\261" > > 
+13:35:32.845 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check \303\226deme Plan\304\261 is opened" > 
+13:35:32.845 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check \303\226deme Plan\304\261 is opened" parameterizedStepValue:"Check \303\226deme Plan\304\261 is opened" > > 
+13:35:32.876 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Scroll down on the \303\226deme Plan\304\261 page until 20th is seen" > 
+13:35:32.876 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Scroll down on the \303\226deme Plan\304\261 page until 20th is seen" parameterizedStepValue:"Scroll down on the \303\226deme Plan\304\261 page until 20th is seen" > > 
+13:39:43.123 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+13:39:43.123 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Set vade as '20AY'" parameterizedStepValue:"Set vade as '20AY'" > allSteps:<stepValue:"Click \303\226deme Plan\304\261" parameterizedStepValue:"Click \303\226deme Plan\304\261" > allSteps:<stepValue:"Scroll down on the \303\226deme Plan\304\261 page until 20th is seen" parameterizedStepValue:"Scroll down on the \303\226deme Plan\304\261 page until 20th is seen" > allSteps:<stepValue:"Click on Kredi Hesaplama" parameterizedStepValue:"Click on Kredi Hesaplama" > allSteps:<stepValue:"Scroll down to the bottom of the page" parameterizedStepValue:"Scroll down to the bottom of the page" > allSteps:<stepValue:"Enter '50000' tl in Tutar field" parameterizedStepValue:"Enter '50000' tl in Tutar field" > allSteps:<stepValue:"Choose S\304\260GORTASIZ" parameterizedStepValue:"Choose S\304\260GORTASIZ" > allSteps:<stepValue:"Click Hesaplama Detaylar\304\261" parameterizedStepValue:"Click Hesaplama Detaylar\304\261" > allSteps:<stepValue:"Check Masraf ve Maliyet Oranlar\304\261 is opened" parameterizedStepValue:"Check Masraf ve Maliyet Oranlar\304\261 is opened" > allSteps:<stepValue:"Check \303\226deme Plan\304\261 is opened" parameterizedStepValue:"Check \303\226deme Plan\304\261 is opened" > allSteps:<stepValue:"Enter Akbank Home Page 'https://akbank.com/'" parameterizedStepValue:"Enter Akbank Home Page 'https://akbank.com/'" > > 
+13:39:43.127 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+13:39:43.127 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+13:53:13.461 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter '' tl in Tutar field" > 
+13:53:13.476 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter '' tl in Tutar field" parameterizedStepValue:"Enter '' tl in Tutar field" > > 
+13:53:15.441 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter '<' tl in Tutar field" > 
+13:53:15.441 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+13:53:15.447 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter '<' tl in Tutar field" > 
+13:53:15.447 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+13:53:15.491 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter '<' tl in Tutar field" > 
+13:53:15.491 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+13:53:16.565 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter '<key' tl in Tutar field" > 
+13:53:16.565 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+13:53:16.568 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter '<key' tl in Tutar field" > 
+13:53:16.568 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+13:53:16.570 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter '<key' tl in Tutar field" > 
+13:53:16.583 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+13:53:18.197 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter '<key>' tl in Tutar field" > 
+13:53:18.197 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter '{}' tl in Tutar field" parameterizedStepValue:"Enter '<key>' tl in Tutar field" parameters:"key" > > 
+13:53:32.580 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter Akbank Home Page https://akbank.com/'" > 
+13:53:32.580 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter Akbank Home Page https://akbank.com/'" parameterizedStepValue:"Enter Akbank Home Page https://akbank.com/'" > > 
+13:53:33.252 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter Akbank Home Page" > 
+13:53:33.256 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter Akbank Home Page" parameterizedStepValue:"Enter Akbank Home Page" > > 
+13:53:34.861 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter Akbank Home Page \"https://akbank.com/\"" > 
+13:53:34.872 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter Akbank Home Page {}" parameterizedStepValue:"Enter Akbank Home Page <https://akbank.com/>" parameters:"https://akbank.com/" > > 
+13:53:37.751 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter 50000' tl in Tutar field" > 
+13:53:37.752 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter 50000' tl in Tutar field" parameterizedStepValue:"Enter 50000' tl in Tutar field" > > 
+13:53:38.300 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter" > 
+13:53:38.304 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter" parameterizedStepValue:"Enter" > > 
+13:53:40.064 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter \"50000\" tl in Tutar field" > 
+13:53:40.073 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter {} tl in Tutar field" parameterizedStepValue:"Enter <50000> tl in Tutar field" parameters:"50000" > > 
+13:53:41.070 Spec file added / modified: C:\Users\erena\IdeaProjects\AkbankUITest\specs\akbankUI.spec
+13:53:41.074 Spec file added / modified: C:\Users\erena\IdeaProjects\AkbankUITest\specs\akbankUI.spec
+13:56:09.909 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter <key> tl in Tutar field" > 
+13:56:09.909 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter {} tl in Tutar field" parameterizedStepValue:"Enter <key> tl in Tutar field" parameters:"key" > > 
+13:56:18.797 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter Akbank Home Page <key>" > 
+13:56:18.800 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter Akbank Home Page {}" parameterizedStepValue:"Enter Akbank Home Page <key>" parameters:"key" > > 
+13:57:53.598 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Set vade as '20AY" > 
+13:57:53.603 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Set vade as '20AY" parameterizedStepValue:"Set vade as '20AY" > > 
+13:57:54.160 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Set vade as '20AY\"\"" > 
+13:57:54.160 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Set vade as '20AY{}" parameterizedStepValue:"Set vade as '20AY<>" parameters:"" > > 
+13:57:55.879 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Set vade as 20AY\"\"" > 
+13:57:55.879 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Set vade as 20AY{}" parameterizedStepValue:"Set vade as 20AY<>" parameters:"" > > 
+13:57:56.118 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Set vade as \"20AY\"" > 
+13:57:56.118 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Set vade as {}" parameterizedStepValue:"Set vade as <20AY>" parameters:"20AY" > > 
+13:58:16.344 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Set vade as 20AY" > 
+13:58:16.350 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Set vade as 20AY" parameterizedStepValue:"Set vade as 20AY" > > 
+13:58:28.733 Spec file added / modified: C:\Users\erena\IdeaProjects\AkbankUITest\specs\akbankUI.spec
+13:58:28.736 Spec file added / modified: C:\Users\erena\IdeaProjects\AkbankUITest\specs\akbankUI.spec
+13:59:32.719 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \303\226deme Plan\304\261'" > 
+13:59:32.727 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click \303\226deme Plan\304\261'" parameterizedStepValue:"Click \303\226deme Plan\304\261'" > > 
+15:28:36.188 Spec file added / modified: C:\Users\erena\IdeaProjects\AkbankUITest\specs\akbankUI.spec
+18:44:58.573 Watching directory: C:\Users\erena\IdeaProjects\AkbankUITest\specs
+18:44:58.573 Found 1 files
+18:44:58.579 Initializing concepts cache with 0 concepts
+18:44:58.580 Spec file added / modified: C:\Users\erena\IdeaProjects\AkbankUITest\specs\akbankUI.spec
+18:44:58.586 Initializing specs cache with 1 specs
+18:44:58.586 Adding specs from C:\Users\erena\IdeaProjects\AkbankUITest\specs\akbankUI.spec
+18:44:58.586 Initializing steps cache with 1 steps
+18:44:58.586 Gauge daemon initialized and listening on port: 59572
+19:17:50.680 Watching directory: C:\Users\erena\IdeaProjects\AkbankUITest\specs
+19:17:50.681 Found 1 files
+19:17:50.687 Initializing concepts cache with 0 concepts
+19:17:50.691 Initializing specs cache with 1 specs
+19:17:50.691 Adding specs from C:\Users\erena\IdeaProjects\AkbankUITest\specs\akbankUI.spec
+19:17:50.691 Initializing steps cache with 1 steps
+19:17:50.691 Gauge daemon initialized and listening on port: 60021
+19:17:56.360 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter Akbank Home Page \"https://akbank.com/\"" > 
+19:17:56.360 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter Akbank Home Page {}" parameterizedStepValue:"Enter Akbank Home Page <https://akbank.com/>" parameters:"https://akbank.com/" > > 
+19:17:56.570 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter Akbank Home Page <key>" > 
+19:17:56.574 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter Akbank Home Page {}" parameterizedStepValue:"Enter Akbank Home Page <key>" parameters:"key" > > 
+19:17:56.575 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Scroll down to the bottom of the page" > 
+19:17:56.577 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Scroll down to the bottom of the page" parameterizedStepValue:"Scroll down to the bottom of the page" > > 
+19:17:56.578 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click on Kredi Hesaplama" > 
+19:17:56.582 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click on Kredi Hesaplama" parameterizedStepValue:"Click on Kredi Hesaplama" > > 
+19:17:56.583 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Choose S\304\260GORTASIZ" > 
+19:17:56.584 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Choose S\304\260GORTASIZ" parameterizedStepValue:"Choose S\304\260GORTASIZ" > > 
+19:17:56.584 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Set vade as 20AY" > 
+19:17:56.584 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Set vade as 20AY" parameterizedStepValue:"Set vade as 20AY" > > 
+19:17:56.585 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter \"50000\" tl in Tutar field" > 
+19:17:56.588 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter {} tl in Tutar field" parameterizedStepValue:"Enter <50000> tl in Tutar field" parameters:"50000" > > 
+19:17:56.589 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter <key> tl in Tutar field" > 
+19:17:56.590 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter {} tl in Tutar field" parameterizedStepValue:"Enter <key> tl in Tutar field" parameters:"key" > > 
+19:17:56.591 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click Hesaplama Detaylar\304\261" > 
+19:17:56.598 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click Hesaplama Detaylar\304\261" parameterizedStepValue:"Click Hesaplama Detaylar\304\261" > > 
+19:17:56.599 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \303\226deme Plan\304\261" > 
+19:17:56.601 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click \303\226deme Plan\304\261" parameterizedStepValue:"Click \303\226deme Plan\304\261" > > 
+19:17:56.602 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check Masraf ve Maliyet Oranlar\304\261 is opened" > 
+19:17:56.604 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check Masraf ve Maliyet Oranlar\304\261 is opened" parameterizedStepValue:"Check Masraf ve Maliyet Oranlar\304\261 is opened" > > 
+19:17:56.605 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check \303\226deme Plan\304\261 is opened" > 
+19:17:56.611 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check \303\226deme Plan\304\261 is opened" parameterizedStepValue:"Check \303\226deme Plan\304\261 is opened" > > 
+19:17:56.612 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Scroll down on the \303\226deme Plan\304\261 page until 20th is seen" > 
+19:17:56.614 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Scroll down on the \303\226deme Plan\304\261 page until 20th is seen" parameterizedStepValue:"Scroll down on the \303\226deme Plan\304\261 page until 20th is seen" > > 
+23:07:28.812 Watching directory: C:\Users\erena\IdeaProjects\AkbankUITest\specs
+23:07:28.814 Found 1 files
+23:07:28.825 Initializing concepts cache with 0 concepts
+23:07:28.827 Spec file added / modified: C:\Users\erena\IdeaProjects\AkbankUITest\specs\akbankUI.spec
+23:07:28.840 Initializing specs cache with 1 specs
+23:07:28.840 Adding specs from C:\Users\erena\IdeaProjects\AkbankUITest\specs\akbankUI.spec
+23:07:28.840 Initializing steps cache with 1 steps
+23:07:28.840 Gauge daemon initialized and listening on port: 61149
+23:07:41.852 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter Akbank Home Page \"https://akbank.com/\"" > 
+23:07:41.871 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter Akbank Home Page {}" parameterizedStepValue:"Enter Akbank Home Page <https://akbank.com/>" parameters:"https://akbank.com/" > > 
+23:07:42.225 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter Akbank Home Page <key>" > 
+23:07:42.225 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter Akbank Home Page {}" parameterizedStepValue:"Enter Akbank Home Page <key>" parameters:"key" > > 
+23:07:42.230 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Scroll down to the bottom of the page" > 
+23:07:42.230 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Scroll down to the bottom of the page" parameterizedStepValue:"Scroll down to the bottom of the page" > > 
+23:07:42.236 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click on Kredi Hesaplama" > 
+23:07:42.236 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click on Kredi Hesaplama" parameterizedStepValue:"Click on Kredi Hesaplama" > > 
+23:07:42.240 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Choose S\304\260GORTASIZ" > 
+23:07:42.240 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Choose S\304\260GORTASIZ" parameterizedStepValue:"Choose S\304\260GORTASIZ" > > 
+23:07:42.242 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Set vade as 20AY" > 
+23:07:42.242 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Set vade as 20AY" parameterizedStepValue:"Set vade as 20AY" > > 
+23:07:42.253 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter \"50000\" tl in Tutar field" > 
+23:07:42.253 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter {} tl in Tutar field" parameterizedStepValue:"Enter <50000> tl in Tutar field" parameters:"50000" > > 
+23:07:42.257 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Enter <key> tl in Tutar field" > 
+23:07:42.258 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Enter {} tl in Tutar field" parameterizedStepValue:"Enter <key> tl in Tutar field" parameters:"key" > > 
+23:07:42.272 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click Hesaplama Detaylar\304\261" > 
+23:07:42.272 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click Hesaplama Detaylar\304\261" parameterizedStepValue:"Click Hesaplama Detaylar\304\261" > > 
+23:07:42.276 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \303\226deme Plan\304\261" > 
+23:07:42.276 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click \303\226deme Plan\304\261" parameterizedStepValue:"Click \303\226deme Plan\304\261" > > 
+23:07:42.282 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check Masraf ve Maliyet Oranlar\304\261 is opened" > 
+23:07:42.283 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check Masraf ve Maliyet Oranlar\304\261 is opened" parameterizedStepValue:"Check Masraf ve Maliyet Oranlar\304\261 is opened" > > 
+23:07:42.295 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check \303\226deme Plan\304\261 is opened" > 
+23:07:42.295 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check \303\226deme Plan\304\261 is opened" parameterizedStepValue:"Check \303\226deme Plan\304\261 is opened" > > 
+23:07:42.309 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Scroll down on the \303\226deme Plan\304\261 page until 20th is seen" > 
+23:07:42.309 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Scroll down on the \303\226deme Plan\304\261 page until 20th is seen" parameterizedStepValue:"Scroll down on the \303\226deme Plan\304\261 page until 20th is seen" > > 
